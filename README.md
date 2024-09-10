@@ -8,7 +8,7 @@
   <strong>Learn once, write anywhere:</strong><br>
   Build mobile apps with React.
 </p>
-
+# fix a bug in react native
 <p align="center">
   <a href="https://github.com/facebook/react-native/blob/HEAD/LICENSE">
     <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="React Native is released under the MIT license." />
